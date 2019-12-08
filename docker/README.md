@@ -1,4 +1,4 @@
-#The following variables MUST be defined to the Docker container:
+The following variables MUST be defined to the Docker container:
 
 ROCKET_URL = Ther URL of your Rocket.Chat server
 
